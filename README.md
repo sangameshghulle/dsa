@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sangameshghulle/dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/sangameshghulle/dsa/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/sangameshghulle/dsa/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/sangamesh-g/dsa/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/sangamesh-g/dsa/tree/master/0643-maximum-average-subarray-i) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sangameshghulle/dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/sangameshghulle/dsa/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/sangameshghulle/dsa/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/sangameshghulle/dsa/tree/main/0205-isomorphic-strings/) | Easy |
 | [0344-reverse-string](https://github.com/sangameshghulle/dsa/tree/main/0344-reverse-string/) | Easy |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sangameshghulle/dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/sangameshghulle/dsa/tree/main/0076-minimum-window-substring/) | Hard |
 | [0169-majority-element](https://github.com/sangamesh-g/dsa/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/sangameshghulle/dsa/tree/main/0205-isomorphic-strings/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/sangamesh-g/dsa/tree/main/0424-longest-repeating-character-replacement/) | Medium |
