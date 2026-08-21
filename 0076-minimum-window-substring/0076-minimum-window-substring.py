@@ -2,22 +2,35 @@ class Solution:
     def minWindow(self, s: str, t: str) -> str:
         if s==t:
             return s
-        ans=s+t
-        l,r=0,0
-        n=len(s)
-        countT=Counter(t)
-        countS=Counter()
-        while l<=r<n:
-            countS[s[r]]=countS.get(s[r],0)+1
-            while countS>=countT:
-                if len(ans)>r-l+1:
-                    ans=s[l:r+1]
-                countS[s[l]]-=1
-                if countS[s[l]]==0:
-                    del countS[s[l]]
+        ans_st=0
+        l=0
+        ans_len=float('inf')
+        need=Counter(t)
+        required=len(need)
+        window={}
+        formed=0
+        for r in range(len(s)):
+            char=s[r]
+            window[char]=window.get(char,0)+1
+
+            if char in need and window[char]==need[char]:
+                formed+=1
+            
+            while formed==required:
+
+                if ans_len>r-l+1:
+                    ans_len=r-l+1
+                    ans_st=l
+                
+                leftchar=s[l]
                 l+=1
 
-            r+=1
-        
+                window[leftchar]-=1
                 
-        return ans if ans!=s+t else ""
+                if leftchar in need and window[leftchar]<need[leftchar]:
+                    formed-=1
+        
+        if ans_len==float('inf'):
+            return ""
+
+        return s[ans_st:ans_st+ans_len]
