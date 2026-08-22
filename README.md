@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sangameshghulle/dsa/tree/main/0011-container-with-most-water/) | Medium |
 | [0018-4sum](https://github.com/sangamesh-g/dsa/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/sangamesh-g/dsa/tree/main/0027-remove-element/) | Easy |
+| [0035-search-insert-position](https://github.com/sangameshghulle/dsa/tree/main/0035-search-insert-position/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sangamesh-g/dsa/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sangameshghulle/dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/sangamesh-g/dsa/tree/main/0169-majority-element/) | Easy |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/sangameshghulle/dsa/tree/main/0035-search-insert-position/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sangameshghulle/dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/sangameshghulle/dsa/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0704-binary-search](https://github.com/sangameshghulle/dsa/tree/main/0704-binary-search/) | Easy |
