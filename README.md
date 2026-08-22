@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/sangameshghulle/dsa/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/sangamesh-g/dsa/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/sangamesh-g/dsa/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0974-subarray-sums-divisible-by-k](https://github.com/sangameshghulle/dsa/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/sangameshghulle/dsa/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/sangameshghulle/dsa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/sangameshghulle/dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/sangameshghulle/dsa/tree/main/0525-contiguous-array/) | Medium |
 | [0567-permutation-in-string](https://github.com/sangameshghulle/dsa/tree/main/0567-permutation-in-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/sangameshghulle/dsa/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/sangameshghulle/dsa/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/sangameshghulle/dsa/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1248-count-number-of-nice-subarrays](https://github.com/sangameshghulle/dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Divide and Conquer
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sangameshghulle/dsa/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/sangameshghulle/dsa/tree/main/0525-contiguous-array/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/sangameshghulle/dsa/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/sangameshghulle/dsa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/sangameshghulle/dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/sangameshghulle/dsa/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
