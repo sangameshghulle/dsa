@@ -2,8 +2,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sangameshghulle/dsa/tree/main/0011-container-with-most-water/) | Medium |
 | [0018-4sum](https://github.com/sangamesh-g/dsa/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/sangamesh-g/dsa/tree/main/0027-remove-element/) | Easy |
@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sangameshghulle/dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sangameshghulle/dsa/tree/main/0035-search-insert-position/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sangamesh-g/dsa/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/sangameshghulle/dsa/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sangameshghulle/dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/sangamesh-g/dsa/tree/main/0169-majority-element/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/sangameshghulle/dsa/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -29,8 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sangameshghulle/dsa/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/sangameshghulle/dsa/tree/main/1695-maximum-erasure-value/) | Medium |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sangameshghulle/dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/sangameshghulle/dsa/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/sangameshghulle/dsa/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -47,8 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/sangameshghulle/dsa/tree/main/1695-maximum-erasure-value/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/sangameshghulle/dsa/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sangameshghulle/dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/sangameshghulle/dsa/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/sangameshghulle/dsa/tree/main/0125-valid-palindrome/) | Easy |
@@ -61,8 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sangamesh-g/dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/sangameshghulle/dsa/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sangameshghulle/dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/sangameshghulle/dsa/tree/main/0076-minimum-window-substring/) | Hard |
 | [0169-majority-element](https://github.com/sangamesh-g/dsa/tree/main/0169-majority-element/) | Easy |
@@ -77,25 +78,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/sangameshghulle/dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1695-maximum-erasure-value](https://github.com/sangameshghulle/dsa/tree/main/1695-maximum-erasure-value/) | Medium |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/sangamesh-g/dsa/tree/main/0169-majority-element/) | Easy |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0018-4sum](https://github.com/sangamesh-g/dsa/tree/main/0018-4sum/) | Medium |
 | [0169-majority-element](https://github.com/sangamesh-g/dsa/tree/main/0169-majority-element/) | Easy |
 | [0881-boats-to-save-people](https://github.com/sangameshghulle/dsa/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/sangamesh-g/dsa/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/sangamesh-g/dsa/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/sangamesh-g/dsa/tree/main/0169-majority-element/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/sangameshghulle/dsa/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sangameshghulle/dsa/tree/main/0011-container-with-most-water/) | Medium |
 | [0018-4sum](https://github.com/sangamesh-g/dsa/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/sangamesh-g/dsa/tree/main/0027-remove-element/) | Easy |
@@ -109,11 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/sangamesh-g/dsa/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/sangamesh-g/dsa/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sangameshghulle/dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sangameshghulle/dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sangameshghulle/dsa/tree/main/0035-search-insert-position/) | Easy |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/sangameshghulle/dsa/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sangameshghulle/dsa/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/sangameshghulle/dsa/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0278-first-bad-version](https://github.com/sangameshghulle/dsa/tree/main/0278-first-bad-version/) | Easy |
@@ -122,18 +124,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/sangameshghulle/dsa/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/sangameshghulle/dsa/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sangameshghulle/dsa/tree/main/0011-container-with-most-water/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/sangameshghulle/dsa/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0881-boats-to-save-people](https://github.com/sangameshghulle/dsa/tree/main/0881-boats-to-save-people/) | Medium |
 ## Timsort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/sangameshghulle/dsa/tree/main/0881-boats-to-save-people/) | Medium |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sangameshghulle/dsa/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/sangameshghulle/dsa/tree/main/0525-contiguous-array/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sangameshghulle/dsa/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -141,11 +143,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/sangameshghulle/dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/sangameshghulle/dsa/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/sangameshghulle/dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Interactive
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0278-first-bad-version](https://github.com/sangameshghulle/dsa/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
