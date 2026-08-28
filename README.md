@@ -163,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sangameshghulle/dsa/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/sangameshghulle/dsa/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/sangameshghulle/dsa/tree/main/0206-reverse-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/sangameshghulle/dsa/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
