@@ -20,6 +20,6 @@ class Solution:
         slow.next.next = current
         slow.next = prev
 
-        print(dummy)
+        # print(dummy)
 
         return dummy.next
