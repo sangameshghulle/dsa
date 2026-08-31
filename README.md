@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/sangameshghulle/dsa/tree/main/0002-add-two-numbers/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/sangameshghulle/dsa/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/sangameshghulle/dsa/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/sangameshghulle/dsa/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/sangameshghulle/dsa/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/sangameshghulle/dsa/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/sangameshghulle/dsa/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/sangameshghulle/dsa/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -210,4 +212,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/sangameshghulle/dsa/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/sangameshghulle/dsa/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/sangameshghulle/dsa/tree/main/0445-add-two-numbers-ii/) | Medium |
 <!---LeetCode Topics End-->
