@@ -9,11 +9,10 @@ class Solution:
             return None
         dummy=ListNode(0)
         ans=dummy
-        # n=0
-        # for i in range(len(lists)):
-        #     if i is not None:
-        #         n+=1
-        n = sum(node is not None for node in lists)
+        n=0
+        for i in lists:
+            if i is not None:
+                n+=1
 
         while n>0:
             
