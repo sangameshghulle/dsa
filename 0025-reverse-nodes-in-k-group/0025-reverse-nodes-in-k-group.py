@@ -29,7 +29,7 @@ class Solution:
             prev = group_next
             curr = group_head
 
-            while curr != group_next:
+            for _ in range(k):
                 next_node = curr.next
                 curr.next = prev
                 prev = curr
