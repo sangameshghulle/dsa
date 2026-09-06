@@ -16,4 +16,4 @@ class Solution:
                     return False
                 stack.pop()
 
-        return not stack
+        return stack==[]
