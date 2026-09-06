@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sangameshghulle/dsa/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0020-valid-parentheses](https://github.com/sangameshghulle/dsa/tree/main/0020-valid-parentheses/) | Easy |
 | [0076-minimum-window-substring](https://github.com/sangameshghulle/dsa/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/sangameshghulle/dsa/tree/main/0125-valid-palindrome/) | Easy |
 | [0205-isomorphic-strings](https://github.com/sangameshghulle/dsa/tree/main/0205-isomorphic-strings/) | Easy |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/sangameshghulle/dsa/tree/main/0020-valid-parentheses/) | Easy |
 | [0143-reorder-list](https://github.com/sangameshghulle/dsa/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/sangameshghulle/dsa/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/sangameshghulle/dsa/tree/main/0445-add-two-numbers-ii/) | Medium |
@@ -246,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sangameshghulle/dsa/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/sangameshghulle/dsa/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
