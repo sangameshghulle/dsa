@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/sangameshghulle/dsa/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/sangameshghulle/dsa/tree/main/0682-baseball-game/) | Easy |
 | [0739-daily-temperatures](https://github.com/sangameshghulle/dsa/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/sangameshghulle/dsa/tree/main/0901-online-stock-span/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/sangameshghulle/dsa/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -278,8 +279,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/sangameshghulle/dsa/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/sangameshghulle/dsa/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/sangameshghulle/dsa/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/sangameshghulle/dsa/tree/main/0901-online-stock-span/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/sangameshghulle/dsa/tree/main/0155-min-stack/) | Medium |
+| [0901-online-stock-span](https://github.com/sangameshghulle/dsa/tree/main/0901-online-stock-span/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/sangameshghulle/dsa/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
