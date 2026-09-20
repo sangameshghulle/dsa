@@ -2,9 +2,9 @@ class Solution:
     def longestValidParentheses(self, s: str) -> int:
         if not s:
             return 0
+        
         ans=0
         stack=[-1]
-        
         for i,ch in enumerate(s):
             if ch=='(':
                 stack.append(i)
