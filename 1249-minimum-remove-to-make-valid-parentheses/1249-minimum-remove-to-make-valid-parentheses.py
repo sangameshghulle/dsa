@@ -1,5 +1,7 @@
 class Solution:
     def minRemoveToMakeValid(self, s: str) -> str:
+        if s=='':
+            return ''
         stack=[]
         invalid=set()
         for i,ch in enumerate(s):
