@@ -19,7 +19,8 @@ class MyQueue:
         
 
     def empty(self) -> bool:
-        return len(self.input)+len(self.output)==0
+        # return len(self.input)+len(self.output)==0
+        return not self.input and not self.output
     
     def _transfer(self):
         if not self.output:
