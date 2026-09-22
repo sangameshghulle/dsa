@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/sangameshghulle/dsa/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/sangameshghulle/dsa/tree/main/0155-min-stack/) | Medium |
 | [0224-basic-calculator](https://github.com/sangameshghulle/dsa/tree/main/0224-basic-calculator/) | Hard |
+| [0225-implement-stack-using-queues](https://github.com/sangameshghulle/dsa/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/sangameshghulle/dsa/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/sangameshghulle/dsa/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/sangameshghulle/dsa/tree/main/0445-add-two-numbers-ii/) | Medium |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/sangameshghulle/dsa/tree/main/0155-min-stack/) | Medium |
+| [0225-implement-stack-using-queues](https://github.com/sangameshghulle/dsa/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0895-maximum-frequency-stack](https://github.com/sangameshghulle/dsa/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [0901-online-stock-span](https://github.com/sangameshghulle/dsa/tree/main/0901-online-stock-span/) | Medium |
 ## Data Stream
@@ -320,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0895-maximum-frequency-stack](https://github.com/sangameshghulle/dsa/tree/main/0895-maximum-frequency-stack/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/sangameshghulle/dsa/tree/main/0225-implement-stack-using-queues/) | Easy |
 <!---LeetCode Topics End-->
