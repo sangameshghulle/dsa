@@ -316,10 +316,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/sangameshghulle/dsa/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0895-maximum-frequency-stack](https://github.com/sangameshghulle/dsa/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [0901-online-stock-span](https://github.com/sangameshghulle/dsa/tree/main/0901-online-stock-span/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/sangameshghulle/dsa/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/sangameshghulle/dsa/tree/main/0901-online-stock-span/) | Medium |
+| [0933-number-of-recent-calls](https://github.com/sangameshghulle/dsa/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -333,4 +335,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sangameshghulle/dsa/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/sangameshghulle/dsa/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0933-number-of-recent-calls](https://github.com/sangameshghulle/dsa/tree/main/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
