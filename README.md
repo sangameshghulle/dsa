@@ -406,10 +406,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/sangameshghulle/dsa/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sangameshghulle/dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/sangameshghulle/dsa/tree/master/0572-subtree-of-another-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/sangameshghulle/dsa/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sangameshghulle/dsa/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/sangameshghulle/dsa/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sangameshghulle/dsa/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/sangameshghulle/dsa/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sangameshghulle/dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/sangameshghulle/dsa/tree/master/0572-subtree-of-another-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/sangameshghulle/dsa/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sangameshghulle/dsa/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
