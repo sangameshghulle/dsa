@@ -9,10 +9,22 @@ class Solution:
         if not nums:
             return None
 
-        numlen=len(nums)//2
+        # numlen=len(nums)//2
         
-        tree=TreeNode(val=nums[numlen])
-        tree.left=self.sortedArrayToBST(nums[0:numlen])
-        tree.right=self.sortedArrayToBST(nums[numlen+1:])
+        # tree=TreeNode(val=nums[numlen])
+        # tree.left=self.sortedArrayToBST(nums[0:numlen])
+        # tree.right=self.sortedArrayToBST(nums[numlen+1:])
 
-        return tree
+        def helper(nums,l,r):
+            if l>r:
+                return None
+
+            mid=(l+r+1)//2
+            tree=TreeNode(val=nums[mid])
+
+            tree.left=helper(nums,l,mid-1)
+            tree.right=helper(nums,mid+1,r)
+
+            return tree
+
+        return helper(nums,0,len(nums)-1)
