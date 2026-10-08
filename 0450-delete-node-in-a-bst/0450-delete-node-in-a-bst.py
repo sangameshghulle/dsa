@@ -14,13 +14,10 @@ class Solution:
         elif root.val<key:
             root.right=self.deleteNode(root.right,key)
         else:
-            if not root.left and not root.right:
-                return None
-            if not root.left or not root.right:
-                if root.left:
-                    return root.left
-                elif root.right:
-                    return root.right
+            if not root.left:
+                return root.right
+            elif not root.right:
+                return root.left
             successor=root.right
             while successor.left:
                 successor=successor.left
